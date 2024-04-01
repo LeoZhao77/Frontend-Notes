@@ -13,3 +13,5 @@
   * 如果是写笔记 就直接加上后缀--比如.md就是写笔记的
   * 如果是记录html文件代码后缀就是.html .css .js
   * 不加后缀预览的时候会没有效果
+5.文件名字的修改在这个
+  * ![image](https://github.com/LeoZhao77/Frontend-Notes/assets/151666164/9c18e93b-7cab-43de-bc1f-086bc77c438b)
